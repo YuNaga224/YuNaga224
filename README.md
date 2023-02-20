@@ -6,12 +6,12 @@
 はじめまして！YuNaga224です。現在は大学３年生でバックエンドエンジニアを目指しています。将来は多くの人々に使われるアプリを開発したいと思っています。よろしくお願いします！！
 
 ## スキル
-💻 プログラミング言語: [PHP, Go, JavaScript Python]
-💻 ソース管理: [Git, GitHub, BitBucket]
-💻 インフラ: [AWS]
-💻 データベース: [MySQL, MongoDB]
-💻 コンテナ技術: [Docker]
-💻 その他: [websocket, Ajax, laravel dusk]
+- 💻 プログラミング言語: [PHP, Go, JavaScript Python]
+- 💻 ソース管理: [Git, GitHub, BitBucket]
+- 💻 インフラ: [AWS]
+- 💻 データベース: [MySQL, MongoDB]
+- 💻 コンテナ技術: [Docker]
+- 💻 その他: [websocket, Ajax, laravel dusk]
 ## プロジェクト
 Here are some of my notable projects:
 🚀 [商大タクシー](https://github.com/YuNaga224/shodaitaxi): 小樽商科大学に通う学生の通学を快適にするwebアプリです！駅から大学までタクシーに相乗りする人を気軽に見つけられます。
