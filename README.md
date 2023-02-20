@@ -14,9 +14,9 @@
 - 💻 その他: [websocket, Ajax, laravel dusk]
 ## プロジェクト
 Here are some of my notable projects:
-🚀 [商大タクシー](https://github.com/YuNaga224/shodaitaxi): 小樽商科大学に通う学生の通学を快適にするwebアプリです！駅から大学までタクシーに相乗りする人を気軽に見つけられます。
-🚀 [websocketチャット](https://github.com/YuNaga224/websocketChat): websocketを使ったチャットアプリです！商大タクシーの課題を解決するためのテストで作りました。
-🚀 [ドメイン名提案コマンドラインツール](https://github.com/YuNaga224/domain-name-suggestion-tool): ドメイン名を提案してくれるコマンドラインツールです。Go言語の学習のために作りました！
+- 🚀 [商大タクシー](https://github.com/YuNaga224/shodaitaxi): 小樽商科大学に通う学生の通学を快適にするwebアプリです！駅から大学までタクシーに相乗りする人を気軽に見つけられます。
+- 🚀 [websocketチャット](https://github.com/YuNaga224/websocketChat): websocketを使ったチャットアプリです！商大タクシーの課題を解決するためのテストで作りました。
+- 🚀 [ドメイン名提案コマンドラインツール](https://github.com/YuNaga224/domain-name-suggestion-tool): ドメイン名を提案してくれるコマンドラインツールです。Go言語の学習のために作りました！
 
 ## Interests
 - 🌱 学習していること
