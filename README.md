@@ -12,7 +12,7 @@ Yu Nagasaki
 - 💻 プログラミング言語: [PHP, Go, JavaScript Python, Dart]
 - 💻 ソース管理: [Git, GitHub, BitBucket]
 - 💻 インフラ: [AWS]
-- 💻 データベース: [MySQL, MongoDB]
+- 💻 データベース: [MySQL, MongoDB, PostgleSQL]
 - 💻 コンテナ技術: [Docker]
 - 💻 その他: [websocket, Ajax, laravel dusk, Firebase]
 ## プロジェクト
